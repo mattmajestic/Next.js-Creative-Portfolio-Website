@@ -96,13 +96,13 @@ export const BtnList = [
   { label: "Contact", link: "/contact", icon: "contact", newTab: false },
   {
     label: "Github",
-    link: "https://www.github.com/codebucks27",
+    link: "https://www.github.com/mattmajestic",
     icon: "github",
     newTab: true,
   },
   {
     label: "LinkedIn",
-    link: "https://www.linkedin.com/in/codebucks",
+    link: "https://www.linkedin.com/in/matthew-majestic",
     icon: "linkedin",
     newTab: true,
   },
@@ -114,7 +114,7 @@ export const BtnList = [
   },
   {
     label: "Resume",
-    link: "/resume.pdf",
+    link: "https://mattmajestic.dev/download-resume-pdf",
     icon: "resume",
     newTab: true,
   },
